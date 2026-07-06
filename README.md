@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=200&section=header&text=Engineering%20the%20Future&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Scalable%20Systems%20%7C%20AI%20%7C%20Fintech&descAlignY=55&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=200&section=header&text=Ankit%20Paul&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Scalable%20Systems%20%7C%20AI%20%7C%20Fintech&descAlignY=55&descAlign=50" alt="Header Banner" />
   
   <br/>
   

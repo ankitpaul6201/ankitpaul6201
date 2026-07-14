@@ -1,33 +1,37 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=200&section=header&text=Ankit%20Paul&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Scalable%20Systems%20%7C%20AI%20%7C%20Fintech&descAlignY=55&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=200&section=header&text=Ankit%20Paul&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=CSE%20Undergrad%20%7C%20Full%20Stack%20Dev%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" alt="Header Banner" />
   
   <br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;Founder+at+Nexovera+Technologies;Architecting+AI-Powered+Fintech+Solutions;Building+Scalable+SaaS+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Computer+Science+Undergraduate;Founder+at+Nexovera+Technologies;Building+Modern+Web+Applications;Developing+AI+%26+ML+Models" alt="Typing SVG" />
+
+  <br/>
+  
+  <img src="https://img.shields.io/badge/B.Tech-Computer_Science-4B0082?style=for-the-badge&logo=codeigniter&logoColor=white" alt="BTech CSE" />
+  <img src="https://img.shields.io/badge/Institute-SVIET-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="SVIET" />
+  <img src="https://img.shields.io/badge/Location-Bhagalpur,_India-9370DB?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 
   <br/><br/>
 
-  <!-- Social & Contact Badges -->
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Nexovera_Technologies-4B0082?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-Contact_Me-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-Follow-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/ankitpaul007"><img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ankitpaul9341@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/ankitpaul6201"><img src="https://img.shields.io/badge/GitHub-Follow-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
   <br/><br/>
 
-  <!-- GitHub Stats Badges -->
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=9370DB&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=for-the-badge&color=4B0082&logo=github" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=ankitpaul6201&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ankitpaul6201?label=Followers&style=for-the-badge&color=9370DB&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ankitpaul6201?label=Stars&style=for-the-badge&color=4B0082&logo=github" alt="Stars" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science and Engineering (B.Tech)** student based in India and the **Founder of Nexovera Technologies**, a digital agency and SaaS-based company dedicated to building robust web applications and digital services for startups. I possess a strong product engineering mindset, specializing in full-stack development and the integration of Artificial Intelligence into highly scalable architectures.
+I am a **Computer Science Undergraduate** passionate about building impactful software[cite: 1]. I specialize in **Full Stack Development** (Next.js, React, Node) and **Artificial Intelligence** (PyTorch, TensorFlow)[cite: 1]. As the **Founder of Nexovera Technologies**, I bring a product engineering mindset to architecting SaaS-based applications and robust digital services. 
 
-My current deep dive involves **Quantitative Trading** and **Fintech**, leveraging machine learning to build intelligent financial tools and transaction monitoring systems. I thrive at the intersection of complex problem-solving and sleek, high-performance product delivery.
+Currently, I am working on building a **Personal AI Assistant**[cite: 1], and actively learning **Advanced NLP & Generative AI**[cite: 1]. I am deeply interested in quantitative trading, utilizing machine learning to build intelligent fintech tools. I am looking to collaborate on Open Source projects and AI applications[cite: 1].
 
 **Open To:** Full-Stack Engineering roles, AI/ML integrations, Fintech collaborations, and SaaS architecture opportunities.
 
@@ -38,22 +42,22 @@ My current deep dive involves **Quantitative Trading** and **Fintech**, leveragi
 <div align="center">
   <p><strong>Languages</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,cpp" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css" alt="Languages" />
   </a>
   
   <p><strong>Frontend</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,framer" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" />
   </a>
   
   <p><strong>Backend & Databases</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgresql" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,supabase" alt="Backend" />
   </a>
   
   <p><strong>Cloud, DevOps & Tooling</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,aws,postman" alt="Cloud and DevOps" />
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,netlify" alt="Cloud and DevOps" />
   </a>
 </div>
 
@@ -63,10 +67,10 @@ My current deep dive involves **Quantitative Trading** and **Fintech**, leveragi
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Large Language Models** | Advanced | Integration of Gemini API and OpenAI for intelligent conversational agents and semantic processing. |
-| **Vector Databases** | Intermediate | Utilizing Pinecone for long-term memory, semantic search, and context retention in AI assistants. |
-| **Machine Learning (Fintech)**| Advanced | Developing anomaly detection algorithms for anti-money laundering and transaction monitoring. |
-| **Data Engineering** | Intermediate | Pipeline optimization using Python for structured financial data and quantitative trading signals. |
+| **Large Language Models** | Advanced | Integration of Google Gemini API for intelligent conversational agents and semantic processing[cite: 1]. |
+| **Machine Learning Frameworks** | Advanced | Model development utilizing PyTorch and TensorFlow for advanced analytical tasks[cite: 1]. |
+| **Computer Vision** | Intermediate | Implementing OpenCV for image processing and structural visual analysis[cite: 1]. |
+| **Generative AI** | Intermediate | Exploring and deploying models via HuggingFace for specialized AI tasks[cite: 1]. |
 
 ---
 
@@ -109,11 +113,11 @@ An AI-powered anti-money laundering (AML) and transaction monitoring ecosystem d
 <details>
 <summary><b>🤖 Personal AI Assistant</b></summary>
 <br/>
-A sophisticated conversational system featuring long-term memory and semantic contextual awareness.
+A sophisticated conversational system featuring long-term memory and semantic contextual awareness[cite: 1].
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | Python, Gemini API, Pinecone |
+| **Stack** | Python, Google Gemini, Pinecone[cite: 1] |
 | **Scale** | Handles continuous contextual sessions with vast vector data retrieval. |
 | **Performance** | Low-latency semantic search matching for instant recall. |
 | **Security** | Isolated vector environments and secure API key management. |
@@ -193,12 +197,12 @@ Architecting and managing a SaaS-based digital agency that delivers end-to-end w
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=9370DB&text_color=a9b1d6&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=9370DB&currStreakLabel=8A2BE2&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitpaul6201&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=9370DB&text_color=a9b1d6&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpaul6201&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=9370DB&currStreakLabel=8A2BE2&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2&text_color=a9b1d6&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpaul6201&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2&text_color=a9b1d6&bg_color=0D1117" alt="Top Languages" width="60%" />
 </div>
 
 ---
@@ -206,7 +210,7 @@ Architecting and managing a SaaS-based digital agency that delivers end-to-end w
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&no-bg=true&margin-w=15&title-text-color=8A2BE2" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitpaul6201&theme=algolia&no-frame=true&no-bg=true&margin-w=15&title-text-color=8A2BE2" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -214,7 +218,7 @@ Architecting and managing a SaaS-based digital agency that delivers end-to-end w
 ## 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyonight&hide_border=true&color=8A2BE2&line=9370DB&point=4B0082&bg_color=0D1117" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitpaul6201&theme=tokyonight&hide_border=true&color=8A2BE2&line=9370DB&point=4B0082&bg_color=0D1117" alt="Activity Graph" />
 </div>
 
 ---
@@ -222,7 +226,7 @@ Architecting and managing a SaaS-based digital agency that delivers end-to-end w
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/ankitpaul6201/ankitpaul6201/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -232,16 +236,17 @@ Architecting and managing a SaaS-based digital agency that delivers end-to-end w
 ```yaml
 Current_Status:
   Learning:
+    - Advanced NLP & Generative AI
     - Quantitative Trading Algorithms
     - Advanced Fintech Security Models
-    - Microservices Architecture
   Building:
     - Nexovera Technologies (Enterprise SaaS ecosystem)
     - ComplyAI (Anti-Money Laundering transaction models)
+    - Personal AI Assistant
   Exploring:
     - Deep Learning for Financial Anomaly Detection
     - High-Frequency Trading System Optimization
   Open_To:
-    - Fintech Engineering Internships / Roles
+    - Open Source Collaborations in AI applications
     - Technical Co-founder Opportunities
-    - Open Source Collaborations in AI/ML
+    - Fintech Engineering Internships / Roles

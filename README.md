@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Computer+Science+Undergraduate;Founder+at+Nexovera+Technologies;Building+Modern+Web+Applications;Developing+AI+%26+ML+Models" alt="Typing SVG" />
 
   <br/>
-  
-  <img src="https://img.shields.io/badge/B.Tech-Computer_Science-4B0082?style=for-the-badge&logo=codeigniter&logoColor=white" alt="BTech CSE" />
-  <img src="https://img.shields.io/badge/Institute-SVIET-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="SVIET" />
-  <img src="https://img.shields.io/badge/Location-Bhagalpur,_India-9370DB?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 
   <br/><br/>
 

@@ -17,7 +17,7 @@
 
 <a href="https://ankitxdev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0C29" /></a>
 <a href="https://linkedin.com/in/ankitpaul007"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0C29" /></a>
-<a href="mailto:contact@ankitxdev.vercel.app"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" /></a>
+<a href="mailto:ankitpaul9341@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" /></a>
 <a href="https://github.com/ankitpaul6201"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0C29" /></a>
 
 <br/><br/>
@@ -322,7 +322,7 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:contact@ankitxdev.vercel.app"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" /></a>
+<a href="mailto:ankitpaul9341@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" /></a>
 <a href="https://linkedin.com/in/ankitpaul007"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0C29" /></a>
 <a href="https://github.com/ankitpaul6201"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0C29" /></a>
 <a href="https://ankitxdev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0C29" /></a>

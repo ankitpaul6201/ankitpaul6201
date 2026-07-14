@@ -1,17 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Ankit%20Paul&fontSize=70&fontColor=C9A7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Founder%20%40%20Nexovera%20Technologies&descAlignY=55&descSize=18&descColor=B8A6E8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Ankit%20Paul&fontSize=70&fontColor=C9A7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Quant%20Enthusiast&descAlignY=55&descSize=18&descColor=B8A6E8" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Engineering+AI%2FML+%26+RAG+pipelines;Founder+%40+Nexovera+Technologies;Google+Student+Ambassador+2026;Open+to+SDE+%2F+AI+Engineer+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Engineering+AI%2FML+%26+RAG+pipelines;AI+Engineer+Intern+%40+Pinnacle+Labs;WorldQuant+Brain+%E2%80%94+Alpha+Researcher;Open+to+SDE+%2F+AI-ML+%2F+Quant+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=flat-square&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Google%20Student%20Ambassador-2026-7C3AED?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Founder%20%26%20CEO-Nexovera%20Technologies-8B5CF6?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/📍-Chandigarh,%20India-9333EA?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/AI%20Engineer%20Intern-Pinnacle%20Labs-8B5CF6?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/WorldQuant%20Brain-Gold%20%7C%20Silver%20%7C%20Bronze-9333EA?style=flat-square&labelColor=1a1a2e" />
 
 <br/><br/>
 
@@ -34,17 +34,18 @@
 
 ```yaml
 name: "Ankit Paul"
-role: "Software Engineer · AI/ML Engineer · Founder"
+role: "Software Engineer · AI/ML Engineer · Quant Researcher"
 current:
-  - "B.Tech CSE, Swami Vivekanand Institute of Engineering & Technology"
-  - "Founder & CEO @ Nexovera Technologies"
+  - "B.Tech CSE"
+  - "AI Engineer Intern @ Pinnacle Labs"
+  - "Alpha Researcher @ WorldQuant Brain"
   - "Google Student Ambassador — 2026 Cohort"
-focus: ["Full-Stack Engineering", "AI/ML & RAG Systems", "Product Engineering"]
+focus: ["Full-Stack Engineering", "AI/ML & RAG Systems", "Quantitative Research"]
 ```
 
 I'm a systems-driven software engineer who builds production-grade applications spanning full-stack web platforms, AI/ML-powered tooling, and cloud-native infrastructure. My engineering philosophy centers on shipping **reliable, scalable, and well-architected products** rather than proof-of-concept prototypes — from RAG-based intelligence pipelines to civic-tech mobile applications used in real hackathon deployments.
 
-As the Founder & CEO of **Nexovera Technologies**, a bootstrapped SaaS company, I operate at the intersection of engineering execution and product strategy — designing systems, shipping features, and making architectural decisions end-to-end.
+As an **AI Engineer Intern at Pinnacle Labs**, I work on production AI systems — integrating webhooks for event-driven pipelines, building and querying vector and graph databases, and fine-tuning models on clean, curated datasets after systematically flushing out noisy and garbage data. Alongside this, I actively research and manage alphas on **WorldQuant Brain**, applying quantitative reasoning to financial signal design.
 
 <table>
 <tr>
@@ -53,16 +54,16 @@ As the Founder & CEO of **Nexovera Technologies**, a bootstrapped SaaS company, 
 **🎯 Engineering Focus**
 - Full-Stack Product Engineering
 - LLM / RAG Pipeline Architecture
-- Distributed & Cloud-Native Systems
-- Developer Tooling & Automation
+- Vector & Graph Database Systems
+- Quantitative Alpha Research
 
 </td>
 <td width="50%" valign="top">
 
 **🤝 Open To**
-- Software Engineer Roles (SDE-1 / New Grad)
-- AI/ML Engineer Roles
-- Full-Stack Engineering Internships
+- Software Development Engineer (SDE) Roles
+- AI / ML Engineer Roles
+- Quantitative Research / Quant Developer Roles
 - Open Source Collaboration
 
 </td>
@@ -99,9 +100,10 @@ As the Founder & CEO of **Nexovera Technologies**, a bootstrapped SaaS company, 
 |---|:---:|---|
 | **LLM Integration** | ⭐⭐⭐⭐⭐ | Gemini API, prompt engineering, structured output pipelines |
 | **RAG Systems** | ⭐⭐⭐⭐ | Retrieval-Augmented Generation pipelines using Pinecone vector DB |
-| **Vector Databases** | ⭐⭐⭐⭐ | Pinecone indexing, embedding strategies, semantic search |
-| **AI-Powered Automation** | ⭐⭐⭐⭐ | Applied LLMs for civic-tech classification & real-world reporting systems |
-| **Applied ML Tooling** | ⭐⭐⭐ | Model integration into production full-stack apps |
+| **Vector & Graph Databases** | ⭐⭐⭐⭐ | Pinecone indexing, graph database querying, embedding strategies, semantic search |
+| **Model Fine-Tuning** | ⭐⭐⭐⭐ | Fine-tuning models on curated datasets, data cleaning & garbage-data removal pipelines |
+| **Event-Driven AI Systems** | ⭐⭐⭐⭐ | Webhook-based integrations for real-time AI pipelines |
+| **Quantitative Alpha Research** | ⭐⭐⭐ | Alpha design & management on WorldQuant Brain |
 
 </div>
 
@@ -151,16 +153,30 @@ Jansetu AI demonstrates applied AI in a socially impactful, real-world deploymen
 
 ## 💼 Experience
 
-**Founder & CEO — Nexovera Technologies**
-`2025 — Present`
+**AI Engineer Intern — Pinnacle Labs**
+`Present`
 
-Leading a bootstrapped SaaS venture from concept to execution, owning the full product lifecycle — architecture, engineering, and go-to-market strategy.
+Working on production AI infrastructure, focused on data pipelines, database architecture, and model quality improvement.
 
-- Architected and built core SaaS product infrastructure end-to-end
-- Made key technical decisions across frontend, backend, and cloud deployment
-- Balanced founder responsibilities with hands-on full-stack engineering
+- Built and maintained webhook-based integrations for event-driven AI workflows
+- Worked with vector and graph databases for semantic search and relationship-based querying
+- Fine-tuned models using clean, curated datasets to improve output reliability
+- Designed and ran data-cleaning pipelines to flush out garbage and noisy data before training
 
-`React.js` `Next.js` `Node.js` `PostgreSQL` `AWS` `Product Strategy`
+`Webhooks` `Vector Databases` `Graph Databases` `Model Fine-Tuning` `Data Cleaning`
+
+---
+
+**Alpha Researcher — WorldQuant Brain**
+`Present`
+
+Researching and managing quantitative alphas on the WorldQuant Brain platform, earning Gold, Silver, and Bronze certifications across alpha research modules.
+
+- Designed and backtested quantitative alpha strategies
+- Managed alpha performance and iteration across multiple research cycles
+- Achieved Gold, Silver, and Bronze certification tiers
+
+`Quantitative Research` `Alpha Design` `Financial Modeling`
 
 ---
 
@@ -182,9 +198,12 @@ Representing Google's developer ecosystem within the campus community, driving t
 
 | Recognition | Details |
 |---|---|
+| 🥇 **WorldQuant Brain — Gold Certification** | Alpha research & management excellence |
+| 🥈 **WorldQuant Brain — Silver Certification** | Alpha research & management proficiency |
+| 🥉 **WorldQuant Brain — Bronze Certification** | Alpha research & management foundation |
 | 🎖️ **Google Student Ambassador** | Selected for the 2026 Cohort |
-| 🚀 **Vibe2Ship Hackathon Participant** | Built & submitted Jansetu AI (Coding Ninjas × Google for Developers) |
-| 🏢 **Founder & CEO** | Bootstrapped Nexovera Technologies from the ground up |
+| 🚀 **National-Level Hackathon** | Participated at the national level |
+| 💡 **College-Level Hackathons** | Participated in 3 college-level hackathons, including Vibe2Ship |
 
 </div>
 
@@ -207,6 +226,12 @@ Representing Google's developer ecosystem within the campus community, driving t
 **Cisco**
 
 <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-1BA0D7?style=flat-square&logo=cisco&logoColor=white&labelColor=1a1a2e" />
+
+**WorldQuant Brain**
+
+<img src="https://img.shields.io/badge/Gold%20Certification-FFD700?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Silver%20Certification-C0C0C0?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Bronze%20Certification-CD7F32?style=flat-square&labelColor=1a1a2e" />
 
 ---
 
@@ -274,21 +299,21 @@ Representing Google's developer ecosystem within the campus community, driving t
 learning:
   - "Advanced RAG architectures & agentic AI systems"
   - "GATE CS 2027 — Target: AIR under 100"
-  - "Distributed systems design at scale"
+  - "Quantitative alpha modeling techniques"
 
 building:
   - "CP Vault — automated CP-to-GitHub sync engine"
-  - "Nexovera Technologies — bootstrapped SaaS product"
+  - "Production AI pipelines @ Pinnacle Labs"
 
 exploring:
-  - "LLM orchestration frameworks"
-  - "Vector database optimization strategies"
-  - "Cloud-native architecture patterns"
+  - "Vector & graph database optimization strategies"
+  - "Model fine-tuning & data quality pipelines"
+  - "Quantitative finance & alpha research"
 
 open_to:
-  - "Software Engineer / AI Engineer Roles"
-  - "Full-Stack Engineering Internships"
-  - "Open Source Collaboration"
+  - "Software Development Engineer (SDE) Roles"
+  - "AI / ML Engineer Roles"
+  - "Quantitative Research / Quant Developer Roles"
 ```
 
 ---

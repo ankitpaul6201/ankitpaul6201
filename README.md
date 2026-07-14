@@ -1,156 +1,178 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=200&section=header&text=Ankit%20Paul&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=CSE%20Undergrad%20%7C%20Full%20Stack%20Dev%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" alt="Header Banner" />
-  
-  <br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Computer+Science+Undergraduate;Founder+at+Nexovera+Technologies;Building+Modern+Web+Applications;Developing+AI+%26+ML+Models" alt="Typing SVG" />
 
-  <br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Ankit%20Paul&fontSize=70&fontColor=C9A7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Founder%20%40%20Nexovera%20Technologies&descAlignY=55&descSize=18&descColor=B8A6E8" />
 
-  <br/><br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Engineering+AI%2FML+%26+RAG+pipelines;Founder+%40+Nexovera+Technologies;Google+Student+Ambassador+2026;Open+to+SDE+%2F+AI+Engineer+Roles" alt="Typing SVG" />
+</a>
 
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Nexovera_Technologies-4B0082?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/ankitpaul007"><img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ankitpaul9341@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/ankitpaul6201"><img src="https://img.shields.io/badge/GitHub-Follow-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<br/>
 
-  <br/><br/>
+<img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Google%20Student%20Ambassador-2026-7C3AED?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Founder%20%26%20CEO-Nexovera%20Technologies-8B5CF6?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/📍-Chandigarh,%20India-9333EA?style=flat-square&labelColor=1a1a2e" />
 
-  <img src="https://komarev.com/ghpvc/?username=ankitpaul6201&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ankitpaul6201?label=Followers&style=for-the-badge&color=9370DB&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ankitpaul6201?label=Stars&style=for-the-badge&color=4B0082&logo=github" alt="Stars" />
+<br/><br/>
+
+<a href="https://ankitxdev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0C29" /></a>
+<a href="https://linkedin.com/in/ankitpaul007"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0C29" /></a>
+<a href="mailto:contact@ankitxdev.vercel.app"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" /></a>
+<a href="https://github.com/ankitpaul6201"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0C29" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ankitpaul6201&style=flat-square&color=8b5cf6&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/ankitpaul6201?style=flat-square&color=8b5cf6&labelColor=1a1a2e&label=Followers" />
+<img src="https://img.shields.io/github/stars/ankitpaul6201?style=flat-square&color=8b5cf6&labelColor=1a1a2e&label=Stars" />
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I am a **Computer Science Undergraduate** passionate about building impactful software[cite: 1]. I specialize in **Full Stack Development** (Next.js, React, Node) and **Artificial Intelligence** (PyTorch, TensorFlow)[cite: 1]. As the **Founder of Nexovera Technologies**, I bring a product engineering mindset to architecting SaaS-based applications and robust digital services. 
+```yaml
+name: "Ankit Paul"
+role: "Software Engineer · AI/ML Engineer · Founder"
+current:
+  - "B.Tech CSE, Swami Vivekanand Institute of Engineering & Technology"
+  - "Founder & CEO @ Nexovera Technologies"
+  - "Google Student Ambassador — 2026 Cohort"
+focus: ["Full-Stack Engineering", "AI/ML & RAG Systems", "Product Engineering"]
+```
 
-Currently, I am working on building a **Personal AI Assistant**[cite: 1], and actively learning **Advanced NLP & Generative AI**[cite: 1]. I am deeply interested in quantitative trading, utilizing machine learning to build intelligent fintech tools. I am looking to collaborate on Open Source projects and AI applications[cite: 1].
+I'm a systems-driven software engineer who builds production-grade applications spanning full-stack web platforms, AI/ML-powered tooling, and cloud-native infrastructure. My engineering philosophy centers on shipping **reliable, scalable, and well-architected products** rather than proof-of-concept prototypes — from RAG-based intelligence pipelines to civic-tech mobile applications used in real hackathon deployments.
 
-**Open To:** Full-Stack Engineering roles, AI/ML integrations, Fintech collaborations, and SaaS architecture opportunities.
+As the Founder & CEO of **Nexovera Technologies**, a bootstrapped SaaS company, I operate at the intersection of engineering execution and product strategy — designing systems, shipping features, and making architectural decisions end-to-end.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 Engineering Focus**
+- Full-Stack Product Engineering
+- LLM / RAG Pipeline Architecture
+- Distributed & Cloud-Native Systems
+- Developer Tooling & Automation
+
+</td>
+<td width="50%" valign="top">
+
+**🤝 Open To**
+- Software Engineer Roles (SDE-1 / New Grad)
+- AI/ML Engineer Roles
+- Full-Stack Engineering Internships
+- Open Source Collaboration
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <p><strong>Languages</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css" alt="Languages" />
-  </a>
-  
-  <p><strong>Frontend</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" />
-  </a>
-  
-  <p><strong>Backend & Databases</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,supabase" alt="Backend" />
-  </a>
-  
-  <p><strong>Cloud, DevOps & Tooling</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,netlify" alt="Cloud and DevOps" />
-  </a>
-</div>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,kotlin&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux&theme=dark" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,firebase,supabase&theme=dark" />
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github,linux,postman,vscode&theme=dark" />
 
 ---
 
-## 🧠 AI / ML Expertise
+## 🤖 AI / ML Expertise
+
+<div align="center">
 
 | Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Large Language Models** | Advanced | Integration of Google Gemini API for intelligent conversational agents and semantic processing[cite: 1]. |
-| **Machine Learning Frameworks** | Advanced | Model development utilizing PyTorch and TensorFlow for advanced analytical tasks[cite: 1]. |
-| **Computer Vision** | Intermediate | Implementing OpenCV for image processing and structural visual analysis[cite: 1]. |
-| **Generative AI** | Intermediate | Exploring and deploying models via HuggingFace for specialized AI tasks[cite: 1]. |
+|---|:---:|---|
+| **LLM Integration** | ⭐⭐⭐⭐⭐ | Gemini API, prompt engineering, structured output pipelines |
+| **RAG Systems** | ⭐⭐⭐⭐ | Retrieval-Augmented Generation pipelines using Pinecone vector DB |
+| **Vector Databases** | ⭐⭐⭐⭐ | Pinecone indexing, embedding strategies, semantic search |
+| **AI-Powered Automation** | ⭐⭐⭐⭐ | Applied LLMs for civic-tech classification & real-world reporting systems |
+| **Applied ML Tooling** | ⭐⭐⭐ | Model integration into production full-stack apps |
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>💼 Nexovera Technologies (SaaS & Digital Agency Platform)</b></summary>
+<summary><b>🔗 CP Vault — Automated Competitive Programming Sync Engine</b></summary>
 <br/>
-A comprehensive SaaS-based platform and digital agency ecosystem providing streamlined website building, application development, and digital services tailored for startups and growing businesses. 
 
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Next.js, React, Node.js, Firebase |
-| **Scale** | B2B multi-tenant architecture designed for scalable service delivery. |
-| **Performance** | SSR and edge caching for sub-second load times. |
-| **Security** | Role-based access control (RBAC) and strict authentication flows. |
-| **Impact** | Automates digital service onboarding and project tracking for enterprise clients. |
-| **Repository** | `Private Enterprise Repository` |
+CP Vault is an automation-first developer tool that seamlessly syncs **accepted competitive programming solutions** from LeetCode, Codeforces, CodeChef, and HackerRank directly to GitHub — eliminating manual copy-pasting and giving competitive programmers a clean, versioned, timestamped record of their solved problems.
 
-*This platform serves as the foundational infrastructure for Nexovera Technologies, incorporating modern UI/UX principles with a robust serverless backend to manage client workflows and digital product deployments.*
+| Attribute | Details |
+|---|---|
+| **Stack** | Next.js, Node.js, GitHub API, OAuth, PostgreSQL |
+| **Scale** | Multi-platform sync across 4 major CP judges |
+| **Performance** | Near-real-time submission detection & sync |
+| **Security** | OAuth-based auth, scoped GitHub token permissions |
+| **Impact** | Automates portfolio-building for competitive programmers |
+| **Repository** | [github.com/ankitpaul6201](https://github.com/ankitpaul6201) |
+
+CP Vault reflects a product-engineering mindset — solving a real, recurring developer pain point with a polished, automation-driven workflow rather than a one-off script.
+
 </details>
 
 <details>
-<summary><b>🛡️ ComplyAI (Transaction Monitoring Tool)</b></summary>
+<summary><b>🏙️ Jansetu AI — AI-Powered Civic Issue Reporting App</b></summary>
 <br/>
-An AI-powered anti-money laundering (AML) and transaction monitoring ecosystem designed to detect suspicious financial activity using machine learning algorithms.
 
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Python, Scikit-learn, React, FastAPI |
-| **Scale** | Designed to process and classify high-velocity simulated financial transactions. |
-| **Performance** | Optimized inference times for real-time anomaly flagging. |
-| **Security** | PII data masking and encrypted payload transmission. |
-| **Impact** | Cybersecurity hackathon project demonstrating viable fintech risk mitigation. |
-| **Repository** | `Status: In Progress` |
+Jansetu AI is an Android civic-tech application that empowers citizens to report local infrastructure and civic issues, using **Gemini API** for intelligent issue classification and routing. Built for the **Vibe2Ship** hackathon (organized by Coding Ninjas & Google for Developers).
 
-*Built with a focus on fintech regulatory compliance, ComplyAI identifies unstructured anomalous transaction patterns. Currently in active development, this project bridges the gap between software engineering and quantitative financial security.*
-</details>
+| Attribute | Details |
+|---|---|
+| **Stack** | Kotlin, Supabase, Gemini API, Firebase |
+| **Scale** | Full mobile app with real-time backend sync |
+| **Performance** | AI-assisted classification with low-latency response |
+| **Security** | Supabase Auth, Firebase-secured data pipelines |
+| **Impact** | Streamlines civic issue reporting & government response routing |
+| **Repository** | [github.com/ankitpaul6201](https://github.com/ankitpaul6201) |
 
-<details>
-<summary><b>🤖 Personal AI Assistant</b></summary>
-<br/>
-A sophisticated conversational system featuring long-term memory and semantic contextual awareness[cite: 1].
+Jansetu AI demonstrates applied AI in a socially impactful, real-world deployment context — combining mobile engineering, cloud backends, and LLM-powered intelligence into a cohesive product.
 
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Python, Google Gemini, Pinecone[cite: 1] |
-| **Scale** | Handles continuous contextual sessions with vast vector data retrieval. |
-| **Performance** | Low-latency semantic search matching for instant recall. |
-| **Security** | Isolated vector environments and secure API key management. |
-| **Impact** | Drastically improves workflow efficiency through highly contextualized AI interactions. |
-| **Repository** | [View Repository](#) |
-
-*Leveraging state-of-the-art LLMs via the Gemini API coupled with Pinecone's vector database, this assistant breaks the limitations of standard chatbots by retaining detailed historical interactions and multi-layered context.*
-</details>
-
-<details>
-<summary><b>📊 College Expense Tracker</b></summary>
-<br/>
-A comprehensive financial management web application specifically designed for students to track daily finances, visualize spending trends, and manage semester budgets.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | HTML, CSS, JavaScript, Firebase |
-| **Scale** | Client-side application with real-time cloud database synchronization. |
-| **Performance** | Lightweight DOM manipulation and optimized Firebase queries. |
-| **Security** | Firebase Authentication for secure personal data isolation. |
-| **Impact** | Promotes financial literacy and budget management among university students. |
-| **Repository** | [View Repository](#) |
-
-*A practical utility demonstrating proficiency in vanilla web technologies integrated with BaaS (Backend as a Service) to deliver a seamless, state-managed user experience.*
 </details>
 
 ---
 
 ## 💼 Experience
 
-**Founder & Lead Engineer** | Nexovera Technologies
-*March 2026 – Present*
-Architecting and managing a SaaS-based digital agency that delivers end-to-end web and app development solutions for startups. 
-*   Spearheading the technical development of the core SaaS platform using Next.js and Firebase.
-*   Establishing brand identity, technical infrastructure, and client onboarding workflows.
-*   Leading a remote team of developers and overseeing agile project lifecycles.
-*   **Skills:** System Architecture, Product Management, Next.js, Cloud Infrastructure, Leadership
+**Founder & CEO — Nexovera Technologies**
+`2025 — Present`
+
+Leading a bootstrapped SaaS venture from concept to execution, owning the full product lifecycle — architecture, engineering, and go-to-market strategy.
+
+- Architected and built core SaaS product infrastructure end-to-end
+- Made key technical decisions across frontend, backend, and cloud deployment
+- Balanced founder responsibilities with hands-on full-stack engineering
+
+`React.js` `Next.js` `Node.js` `PostgreSQL` `AWS` `Product Strategy`
+
+---
+
+**Google Student Ambassador — 2026 Cohort**
+`2026`
+
+Representing Google's developer ecosystem within the campus community, driving technical engagement and developer advocacy initiatives.
+
+- Facilitated developer community engagement and technical outreach
+- Promoted Google developer tools and platforms among student engineers
+
+`Community Building` `Developer Advocacy` `Public Speaking`
 
 ---
 
@@ -159,10 +181,10 @@ Architecting and managing a SaaS-based digital agency that delivers end-to-end w
 <div align="center">
 
 | Recognition | Details |
-| :--- | :--- |
-| **Participant** | **India Innovates 2026** Hackathon at Bharat Mandapam, New Delhi (Cybersecurity Track). |
-| **Applicant** | **Google Student Ambassador** Program for the 2026-2027 academic cycle. |
-| **Speaker** | Delivered technical pitches and 10-slide architectural presentations on AI-driven financial security. |
+|---|---|
+| 🎖️ **Google Student Ambassador** | Selected for the 2026 Cohort |
+| 🚀 **Vibe2Ship Hackathon Participant** | Built & submitted Jansetu AI (Coding Ninjas × Google for Developers) |
+| 🏢 **Founder & CEO** | Bootstrapped Nexovera Technologies from the ground up |
 
 </div>
 
@@ -170,51 +192,68 @@ Architecting and managing a SaaS-based digital agency that delivers end-to-end w
 
 ## 📜 Certifications
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-4B0082?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Oracle-Certified_Associate-8A2BE2?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/NPTEL-Computer_Science_Excellence-9370DB?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL" />
-  <img src="https://img.shields.io/badge/Cisco-CCNA_Certified-4B0082?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-</div>
+**AWS**
+
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1a2e" />
+
+**Oracle**
+
+<img src="https://img.shields.io/badge/Oracle%20Certified-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1a2e" />
+
+**NPTEL**
+
+<img src="https://img.shields.io/badge/NPTEL%20Certified-8B5CF6?style=flat-square&labelColor=1a1a2e" />
+
+**Cisco**
+
+<img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-1BA0D7?style=flat-square&logo=cisco&logoColor=white&labelColor=1a1a2e" />
 
 ---
 
 ## 💻 Coding Profiles
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Elite_Coder-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Problem_Solver-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Star_Logic-9370DB?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Competitive_Programmer-8A2BE2?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+
+<a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-262626?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://www.geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-262626?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
+<a href="https://www.hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-262626?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /></a>
+<a href="https://www.codechef.com"><img src="https://img.shields.io/badge/CodeChef-262626?style=for-the-badge&logo=codechef&logoColor=5B4638" /></a>
+
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitpaul6201&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=9370DB&text_color=a9b1d6&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpaul6201&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=9370DB&currStreakLabel=8A2BE2&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankitpaul6201&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpaul6201&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=C9D1D9" />
+
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpaul6201&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2&text_color=a9b1d6&bg_color=0D1117" alt="Top Languages" width="60%" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpaul6201&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitpaul6201&theme=algolia&no-frame=true&no-bg=true&margin-w=15&title-text-color=8A2BE2" alt="GitHub Trophies" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ankitpaul6201&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
+
 </div>
 
 ---
 
-## 📊 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitpaul6201&theme=tokyonight&hide_border=true&color=8A2BE2&line=9370DB&point=4B0082&bg_color=0D1117" alt="Activity Graph" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankitpaul6201&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9&hide_border=true" />
+
 </div>
 
 ---
@@ -222,7 +261,9 @@ Architecting and managing a SaaS-based digital agency that delivers end-to-end w
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ankitpaul6201/ankitpaul6201/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+<img src="https://raw.githubusercontent.com/ankitpaul6201/ankitpaul6201/output/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
 ---
@@ -230,19 +271,45 @@ Architecting and managing a SaaS-based digital agency that delivers end-to-end w
 ## 🎯 Current Focus
 
 ```yaml
-Current_Status:
-  Learning:
-    - Advanced NLP & Generative AI
-    - Quantitative Trading Algorithms
-    - Advanced Fintech Security Models
-  Building:
-    - Nexovera Technologies (Enterprise SaaS ecosystem)
-    - ComplyAI (Anti-Money Laundering transaction models)
-    - Personal AI Assistant
-  Exploring:
-    - Deep Learning for Financial Anomaly Detection
-    - High-Frequency Trading System Optimization
-  Open_To:
-    - Open Source Collaborations in AI applications
-    - Technical Co-founder Opportunities
-    - Fintech Engineering Internships / Roles
+learning:
+  - "Advanced RAG architectures & agentic AI systems"
+  - "GATE CS 2027 — Target: AIR under 100"
+  - "Distributed systems design at scale"
+
+building:
+  - "CP Vault — automated CP-to-GitHub sync engine"
+  - "Nexovera Technologies — bootstrapped SaaS product"
+
+exploring:
+  - "LLM orchestration frameworks"
+  - "Vector database optimization strategies"
+  - "Cloud-native architecture patterns"
+
+open_to:
+  - "Software Engineer / AI Engineer Roles"
+  - "Full-Stack Engineering Internships"
+  - "Open Source Collaboration"
+```
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:contact@ankitxdev.vercel.app"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" /></a>
+<a href="https://linkedin.com/in/ankitpaul007"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0C29" /></a>
+<a href="https://github.com/ankitpaul6201"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0C29" /></a>
+<a href="https://ankitxdev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0C29" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Engineering is not about writing code — it's about building systems that outlast the problems they were built to solve."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer" />
+
+</div>

@@ -298,7 +298,6 @@ Representing Google's developer ecosystem within the campus community, driving t
 ```yaml
 learning:
   - "Advanced RAG architectures & agentic AI systems"
-  - "GATE CS 2027 — Target: AIR under 100"
   - "Quantitative alpha modeling techniques"
 
 building:
@@ -333,7 +332,6 @@ open_to:
 
 <div align="center">
 
-*"Engineering is not about writing code — it's about building systems that outlast the problems they were built to solve."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer" />
 
